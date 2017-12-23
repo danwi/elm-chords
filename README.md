@@ -1,2 +1,2 @@
 # elm-chords
-Display and analyze chords. Still in prototype syage
+Display and analyze chords. Still in prototype stage
